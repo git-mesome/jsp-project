@@ -1,0 +1,16 @@
+#formArea {
+    margin: auto;
+    width: 400px;
+    border: 1px solid gray;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    width: 380px;
+    margin: auto;
+    text-align: center;
+}

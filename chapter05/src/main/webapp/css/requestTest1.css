@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    width: 400px;
+    border: 1px solid red;
+}

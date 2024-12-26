@@ -1,0 +1,10 @@
+#formArea {
+    margin: auto;
+    width: 400px;
+    border: 1px solid black;
+}
+
+h1,
+fieldset {
+    text-align: center;
+}
