@@ -1,0 +1,13 @@
+#loginArea {
+    width: 400px;
+    margin: auto;
+    border: 1px solid black;
+}
+
+table {
+    margin: auto;
+}
+
+td {
+    text-align: center;
+}
