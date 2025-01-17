@@ -32,7 +32,8 @@
     </tr>
     <tr>
         <td><b>이메일주소 : </b></td>
-        <td><jsp:getProperty name="join" property="email"/></td>
+        <td><%=join.getEmail()%></td>
+<%--        <td><jsp:getProperty name="join" property="email"/></td>--%>
     </tr>
 </table>
 </body>
