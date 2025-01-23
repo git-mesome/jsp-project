@@ -1,0 +1,11 @@
+table {
+    margin: auto;
+    width: 400px;
+    border: 1px solid gray;
+    text-align: center;
+}
+
+.td_title {
+    font-weight: bold;
+    font-size: x-large;
+}
