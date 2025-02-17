@@ -1,0 +1,30 @@
+#loginFormArea {
+	margin: auto;
+	width: 400px;
+	height: 200px;
+	border: 2px double purple;
+	border-radius: 10px;
+	text-align: center;
+}
+
+fieldset {
+	text-align: center;
+	border: none;
+}
+
+#selectButton {
+	margin-top: 10px;
+}
+
+table {
+	width: 380px;
+	margin: auto;
+}
+
+.td_left {
+	width: 180px
+}
+
+.td_right {
+	width: 200px
+}
